@@ -1,0 +1,20 @@
+{
+  "id": "autotargetowntoken",
+  "title": "AutotargetOwnToken",
+  "description": "Automatically target your own token when you select it.",
+  "version": "1.0.0",
+  "esmodules": [
+    "script.js"
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Guakocius",
+      "discord": "Guakocius",
+      "flags": {}
+    }
+  ]
+}
